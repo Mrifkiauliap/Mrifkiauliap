@@ -25,10 +25,10 @@
 ## 🔥 GitHub Stats:
 <p align="center">
   <a href="https://github.com/GenProject05">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=GenProject05&show_icons=true&theme=tokyonight" />
+    <img height="100" src="https://github-readme-stats.vercel.app/api?username=GenProject05&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/GenProject05">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=GenProject05&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
+    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=GenProject05&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
   </a>
 </p>
 
