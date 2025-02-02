@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rifki
+🚀 Tech Enthusiast | 💻 Full-Stack Developer | 🎮 Gamer
 
-<!--
-**GenProject05/GenProject05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning **AI & IoT**
+📚 Studying **Computer Science at Universitas Samudra**
+💡 Passionate about **Open Source & Cloud Computing**
 
-Here are some ideas to get you started:
+### 🔥 My GitHub Stats:
+![Rifki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifkiaulia&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+
+
+![GitHub followers](https://img.shields.io/github/followers/GenProject05?style=social)
+![GitHub stars](https://img.shields.io/github/stars/GenProject05?style=social)
