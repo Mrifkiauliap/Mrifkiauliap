@@ -109,3 +109,7 @@
 ---
 
 ### 🎉 Thank You for Visiting My Profile! 🎉  
+
+<img src="https://raw.githubusercontent.com/GenProject05/GenProject05/main/assets/snake.svg" alt="Snake animation"/>
+
+
