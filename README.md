@@ -79,7 +79,8 @@
 
 ## 🚀 Projects:
 ### 🌟 Featured Projects
-- 🔹 [**Investory**](https://github.com/GenProject05/Investory) [Development] – A financial management app 💰  
+- 🔹 [**Investory**](https://github.com/GenProject05/Investory) [Development] – A financial management app 💰
+- 🔹 [**Geanime**](https://github.com/GenProject05/Geanime) [Development] – A anime web ✨
 
 ---
 
