@@ -3,8 +3,8 @@
   🚀 Tech Enthusiast | 💻 Passionate Learner of All Things Tech | 🎮 Gamer & Tech Explorer  
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/GenProject05?style=social" />
-  <img src="https://img.shields.io/github/stars/GenProject05?style=social" />
+  <img src="https://img.shields.io/github/followers/Mrifkiauliap?style=social" />
+  <img src="https://img.shields.io/github/stars/Mrifkiauliap?style=social" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 ## 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenProject05&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrifkiauliap&theme=github-dark" />
 </p>
 
 ---
@@ -111,6 +111,6 @@
 
 ### 🎉 Thank You for Visiting My Profile! 🎉  
 
-<img src="https://raw.githubusercontent.com/Mrifkiauliap/GenProject05/main/assets/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Mrifkiauliap/Mrifkiauliap/main/assets/snake.svg" alt="Snake animation"/>
 
 
