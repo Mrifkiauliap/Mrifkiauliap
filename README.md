@@ -24,11 +24,11 @@
 
 ## 🔥 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/GenProject05">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=GenProject05&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/Mrifkiauliap">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mrifkiauliap&show_icons=true&theme=tokyonight" />
   </a>
-  <a href="https://github.com/GenProject05">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=GenProject05&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
+  <a href="https://github.com/Mrifkiauliap">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrifkiauliap&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
   </a>
 </p>
 
@@ -79,8 +79,8 @@
 
 ## 🚀 Projects:
 ### 🌟 Featured Projects
-- 🔹 [**Investory**](https://github.com/GenProject05/Investory) [Development] – A financial management app 💰
-- 🔹 [**Geanime**](https://github.com/GenProject05/Geanime) [Development] – A anime web ✨
+- 🔹 [**Investory**](https://github.com/Mrifkiauliap/Investory) [Development] – A financial management app 💰
+- 🔹 [**Geanime**](https://github.com/Mrifkiauliap/Geanime) [Development] – A anime web ✨
 
 ---
 
@@ -111,6 +111,6 @@
 
 ### 🎉 Thank You for Visiting My Profile! 🎉  
 
-<img src="https://raw.githubusercontent.com/GenProject05/GenProject05/main/assets/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Mrifkiauliap/GenProject05/main/assets/snake.svg" alt="Snake animation"/>
 
 
