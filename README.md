@@ -8,16 +8,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C6F7&center=true&width=600&lines=Hi+There!+I'm+Rifki;I'm+a+Tech+Enthusiast;I+Love+Building+Projects;Currently+Exploring+AI+and+Machine+Learning;Passionate+about+Open+Source;Always+Excited+to+Learn+New+Tech!;Let's+Build+Something+Great+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C6F7&center=true&width=600&lines=Hi+There!+I'm+Rifki;Web+Developer+%2B+DevOps+Enthusiast;Passionate+about+Open+Source+and+Tech+Community;Currently+Exploring+AI+and+Machine+Learning;Love+Building+Cool+and+Meaningful+Projects;Selalu+Semangat+Belajar+Hal+Baru!;Ayo+Bikin+Project+Keren+Bareng!" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🌱 Currently diving into **AI & Machine Learning** 🤖  
+- 🌱 Currently diving into **Web Development & DevOps** 🤖  
 - 🎓 Pursuing **Computer Science at Universitas Samudra** 📚  
 - ☁️ Passionate about **Open Source & Cloud Computing**  
-- 🛠️ Enjoy building projects with **Laravel & Python** 🔥  
+- 🛠️ Enjoy building projects with **Javascript & Python** 🔥  
 - 🌐 Focused on **Web Development & DevOps** 🚀  
 
 ---
@@ -79,18 +79,16 @@
 
 ## 🚀 Projects:
 ### 🌟 Featured Projects
-- 🔹 [**Investory**](https://github.com/Mrifkiauliap/Investory) [Development] – A financial management app 💰
-- 🔹 [**Geanime**](https://github.com/Mrifkiauliap/Geanime) [Development] – A anime web ✨
+- 🔹 [**Unitify**](https://github.com/Mrifkiauliap/Unitify) [Development] – A reminder app 💰
+- 🔹 [**Geanime**](https://github.com/Mrifkiauliap/Geanime) [STOP] – A anime web ✨
 
 ---
 
-## 🎯 Goals for 2025:
-- ✅ Build & contribute more to **Open Source projects** 💻  
-- ✅ Deep dive into **AI & Machine Learning** 🤖  
-- ✅ Improve **Technical Writing & Blogging** 📝  
-- ✅ Learn **Web Development** (including frameworks & frontend technologies) 🌐  
-- ✅ Expand knowledge in **Cloud Computing & DevOps** ☁️  
-- ✅ Collaborate on **larger projects** and build a **portfolio** 📁  
+### 🚀 Mari Terhubung dan Berkarya!
+- 🌐 [Portfolio Website](https://your-portfolio-link.com) [Coming Soon]
+- 💻 [GitHub](https://github.com/Mrifkiauliap)
+- 📫 Email: mrifkiauliap2105@gmail.com
+- ☕ Let's build something awesome together!
 
 ---
 
@@ -112,5 +110,3 @@
 ### 🎉 Thank You for Visiting My Profile! 🎉  
 
 <img src="https://raw.githubusercontent.com/Mrifkiauliap/Mrifkiauliap/main/assets/snake.svg" alt="Snake animation"/>
-
-
