@@ -22,15 +22,10 @@ Computer Science student at Universitas Samudra with a passion for Web Developme
 - **[Unitify](https://github.com/Mrifkiauliap/Unitify)** - A reminder application (Stop)
 - **[Financial-App](https://github.com/Mrifkiauliap/financial-app)** - An financial ledger & portfolio application
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Mrifkiauliap">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mrifkiauliap&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Mrifkiauliap">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrifkiauliap&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrifkiauliap&theme=github-dark" />
 </p>
 
 ## 📫 Connect With Me
