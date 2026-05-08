@@ -8,10 +8,10 @@ Computer Science student at Universitas Samudra focused on web development and b
 - Financial systems and personal finance tools
 
 ## Tech Stack
-Frontend: HTML, CSS, JavaScript, Vue
-Backend: PHP, Laravel, NestJS, MySQL, PostgreSQL
-Languages: Python, C++, JavaScript, Golang (Comingsoon)
-Tools: Git, Linux, VS Code, npm, pnpm, postman
+- Frontend: HTML, CSS, JavaScript, Vue
+- Backend: PHP, Laravel, NestJS, MySQL, PostgreSQL
+- Languages: Python, C++, JavaScript, Golang (Comingsoon)
+- Tools: Git, Linux, VS Code, npm, pnpm, postman
 
 ## Projects
 - **[Financial-App](https://github.com/Mrifkiauliap/financial-app)**  
