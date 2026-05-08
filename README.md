@@ -17,7 +17,7 @@ Tools: Git, Linux, VS Code, npm
 - **[Financial-App](https://github.com/Mrifkiauliap/financial-app)**  
   Personal financial ledger and portfolio tracker  
 
-- **[Unitify](https://github.com/Mrifkiauliap/Unitify)**  
+- **[Remindme](https://github.com/Mrifkiauliap/remindme)**  
   A reminder application for productivity  
 
 ## GitHub Activity
