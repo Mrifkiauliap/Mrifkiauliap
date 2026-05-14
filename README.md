@@ -15,7 +15,10 @@ Computer Science student at Universitas Samudra focused on web development and b
 
 ## Projects
 - **[Financial-App](https://github.com/Mrifkiauliap/financial-app)**  
-  Personal financial ledger and portfolio tracker  
+  Personal financial ledger and portfolio tracker
+
+- **[Aurex-Finance](https://github.com/Mrifkiauliap/aurex-finance)**  
+  Aurex is a centralized financial market infrastructure service that provides data and utilities related to currencies, cryptocurrencies, and asset pricing through REST APIs and real-time WebSockets
 
 - **[Remindme](https://github.com/Mrifkiauliap/remindme)**  
   A reminder application for productivity  
