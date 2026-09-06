@@ -17,7 +17,7 @@ Computer Science student at Universitas Samudra focused on web development and b
 - **[Financial-App](https://github.com/Mrifkiauliap/financial-app)**  
   Personal financial ledger and portfolio tracker
 
-- **[Finwall](https://github.com/Mrifkiauliap/finwall)**
+- **[Finwall](https://github.com/Mrifkiauliap/finwall)**  
   A multi-tenant personal finance platform with role-based access control and debit/credit-based transaction tracking, built as a scalable monorepo application.
 
 - **[Aurex-Finance](https://github.com/Mrifkiauliap/aurex-finance)**  
