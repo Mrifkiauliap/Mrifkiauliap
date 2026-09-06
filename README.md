@@ -8,14 +8,17 @@ Computer Science student at Universitas Samudra focused on web development and b
 - Financial systems and personal finance tools
 
 ## Tech Stack
-- Frontend: HTML, CSS, JavaScript, Vue
-- Backend: PHP, Laravel, NestJS, MySQL, PostgreSQL
+- Frontend: HTML, CSS, JavaScript, Vue, Nuxt
+- Backend: PHP, Laravel, NestJS, MySQL, PostgreSQL, Redis, BullMQ
 - Languages: Python, C++, JavaScript, Golang (Comingsoon)
-- Tools: Git, Linux, VS Code, npm, pnpm, postman
+- Tools: Git, Linux, VS Code, npm, pnpm, postman, httpie
 
 ## Projects
 - **[Financial-App](https://github.com/Mrifkiauliap/financial-app)**  
   Personal financial ledger and portfolio tracker
+
+- **[Finwall](https://github.com/Mrifkiauliap/finwall)**
+  A multi-tenant personal finance platform with role-based access control and debit/credit-based transaction tracking, built as a scalable monorepo application.
 
 - **[Aurex-Finance](https://github.com/Mrifkiauliap/aurex-finance)**  
   Aurex is a centralized financial market infrastructure service that provides data and utilities related to currencies, cryptocurrencies, and asset pricing through REST APIs and real-time WebSockets
