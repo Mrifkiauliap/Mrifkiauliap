@@ -18,7 +18,7 @@ Computer Science student at Universitas Samudra focused on web development and b
   Personal financial ledger and portfolio tracker
 
 - **[Finwall](https://github.com/Mrifkiauliap/finwall)**  
-  A multi-tenant personal finance platform with role-based access control and debit/credit-based transaction tracking, built as a scalable monorepo application.
+  A multi-tenant personal finance platform with role-based access control and a double-entry-style transaction system built around debit and credit entries, developed as a scalable monorepo application.
 
 - **[Aurex-Finance](https://github.com/Mrifkiauliap/aurex-finance)**  
   Aurex is a centralized financial market infrastructure service that provides data and utilities related to currencies, cryptocurrencies, and asset pricing through REST APIs and real-time WebSockets
